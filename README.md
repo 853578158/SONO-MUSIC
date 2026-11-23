@@ -2,9 +2,13 @@
 
 A common music player / 一款普通的音乐播放器
 
+<img width="2864" height="1784" alt="image" src="https://github.com/user-attachments/assets/d1a1bafa-12ce-48cf-a878-90b6ee9b0438" />
+<img width="2848" height="1768" alt="image" src="https://github.com/user-attachments/assets/841b4682-8b7c-4293-987c-30d28d7089c3" />
+<img width="2868" height="1788" alt="image" src="https://github.com/user-attachments/assets/22fa5314-8afa-4e99-8f44-4ffd48953901" />
+
 ## 项目简介
 
-SONO MUSIC 是一款 macOS 原生音乐播放器。你可以导入 Mac 上的音乐文件夹，在照片墙或轮播视图中浏览专辑封面，点开一首歌，跟着播放进度看逐字歌词。连接音乐账号后，还可以浏览在线歌单。
+SONO MUSIC 是一款 macOS 原生音乐播放器。支持本地音频、网易云、QQ音乐。
 
 ## 快速下载
 
