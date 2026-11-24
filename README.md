@@ -1,3 +1,8 @@
+## 下载 SONO MUSIC 1.12.8（构建 9）
+
+适用于 Apple 芯片 Mac，系统要求 macOS 26.0 或更新版本。
+
+**[下载 Mac 安装包（DMG）](https://github.com/853578158/SONO-MUSIC/releases/download/v1.12.8-build9/SONO-MUSIC-1.12.8-build9-preview-arm64.dmg)** · [查看全部附件](https://github.com/853578158/SONO-MUSIC/releases/tag/v1.12.8-build9)
 # SONO MUSIC
 
 A common music player / 一款普通的音乐播放器
