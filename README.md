@@ -15,7 +15,7 @@ SONO MUSIC 是一款 macOS 原生音乐播放器。支持本地音频、网易�
 **[下载 SONO MUSIC 1.12.8(9) 预览版（DMG）](https://github.com/853578158/SONO-MUSIC/releases/download/v1.12.8-(9)/SONO-MUSIC-1.12.8-build9-preview-arm64.dmg)**
 
 适用于搭载 Apple 芯片（M 系列）、运行 macOS 26.0 或更新版本的 Mac。安装播放器只需下载 DMG。
-开发者可以获取[本版对应源码](https://github.com/853578158/SONO-MUSIC/releases/download/v1.12.8-(9)/SONO-MUSIC-1.12.8-build9-source.zip)，
+开发者可以获取 [本版对应源码](https://github.com/853578158/SONO-MUSIC/releases/download/v1.12.8-(9)/SONO-MUSIC-1.12.8-build9-source.zip)，
 其他版本见[发行列表]
 
 ## 安装方式
